@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Poppins-ExtraBold';
+    src: url(../fonts/Poppins-ExtraBold.ttf);
+}
+@font-face{
+    font-family: 'Barlow-Regular';
+    src: url(../fonts/Barlow-Regular.ttf);
+}
+@font-face{
+    font-family: 'MPLUS1-Regular';
+    src: url(../fonts/MPLUS1-Regular.ttf);
+}
+@font-face {
+    font-family: 'ReadexPro-Light';
+    src: url(../fonts/ReadexPro-Light.ttf);
+}
+@font-face {
+    font-family: 'RubikMoonrocks-Regular';
+    src: url(../fonts/RubikMoonrocks-Regular.ttf);
+}
